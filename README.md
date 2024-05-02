@@ -13,10 +13,10 @@ Olá! Meu nome é Pedro Henrique e este é o meu perfil no GitHub. Sou estudante
 
 Aqui estão algumas das tecnologias com as quais estou mais familiarizado:
 
-- [C#](link_para_a_imagem_csharp) [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) 🚀
-- [JavaScript](link_para_a_imagem_javascript) [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ⚡️
-- [Git](link_para_a_imagem_git) [Git](https://git-scm.com/) 🔧
-- [Visual Studio](link_para_a_imagem_visualstudio) [Visual Studio](https://visualstudio.microsoft.com/pt-br/) 💻
+- [C#](link_para_a_imagem_csharp) (https://docs.microsoft.com/pt-br/dotnet/csharp/) 🚀
+- [JavaScript](link_para_a_imagem_javascript) (https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) ⚡️
+- [Git](link_para_a_imagem_git) (https://git-scm.com/) 🔧
+- [Visual Studio](link_para_a_imagem_visualstudio)(https://visualstudio.microsoft.com/pt-br/) 💻
 
 
 Obrigado por visitar meu perfil! 😊
